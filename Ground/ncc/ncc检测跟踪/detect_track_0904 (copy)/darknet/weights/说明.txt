@@ -1,0 +1,1 @@
+本文件的权重在C:\Users\Administrator\Desktop\Ground_Sky_detection_track\Ground\ncc\一致性问题\detect_track_0904_1021 (copy)\darknet\weights下
